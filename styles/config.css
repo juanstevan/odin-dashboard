@@ -3,6 +3,7 @@
 :root {
     font-family: Inter, sans-serif;
     font-size: clamp(0.5em, 1vw, 1em);
+    line-height: 1.5;
 
 
     --BLUE: #3377FF;
@@ -13,7 +14,8 @@
     --main-color: #FFF;
     --main-light: #FCFCFC;
     --secondary-color: #000;
-    --secondary-light: grey;
+    --secondary-light: #AAA;
+    --shadow: #EEE
 }
 
 * {
